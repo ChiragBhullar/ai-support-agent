@@ -1,0 +1,40 @@
+{"query": "What are your working hours?", "label": "FAQ"}
+{"query": "Are you open on Sunday?", "label": "FAQ"}
+{"query": "How much does the professional plan cost?", "label": "FAQ"}
+{"query": "do you give a free trial", "label": "FAQ"}
+{"query": "Which payment methods do you accept?", "label": "FAQ"}
+{"query": "Where is your office located?", "label": "FAQ"}
+{"query": "Can I get a GST invoice for my payment?", "label": "FAQ"}
+{"query": "how do i cancel my subscription", "label": "FAQ"}
+{"query": "Is my data safe with you?", "label": "FAQ"}
+{"query": "wat r ur prices", "label": "FAQ"}
+{"query": "I can't log in to my account.", "label": "TECHNICAL"}
+{"query": "pasword reset link is not wrking", "label": "TECHNICAL"}
+{"query": "The app crashes when I upload a file.", "label": "TECHNICAL"}
+{"query": "I am not receiving the OTP on my phone", "label": "TECHNICAL"}
+{"query": "Website is not loading on Chrome", "label": "TECHNICAL"}
+{"query": "Unable to export my report to Excel", "label": "TECHNICAL"}
+{"query": "getting an error while installing the app", "label": "TECHNICAL"}
+{"query": "my data is not syncing between phone and laptop", "label": "TECHNICAL"}
+{"query": "Email notifications stopped coming", "label": "TECHNICAL"}
+{"query": "login page keeps showing blank screen", "label": "TECHNICAL"}
+{"query": "My issue is still not solved after 3 days.", "label": "COMPLAINT"}
+{"query": "Nobody has replied to me for a week!", "label": "COMPLAINT"}
+{"query": "My payment failed but money was deducted", "label": "COMPLAINT"}
+{"query": "You charged me twice this month, I want a refund", "label": "COMPLAINT"}
+{"query": "This is the worst service I have ever used", "label": "COMPLAINT"}
+{"query": "I have been waiting for my refund for two weeks", "label": "COMPLAINT"}
+{"query": "Your support agent was very rude to me", "label": "COMPLAINT"}
+{"query": "The app has crashed every day for a week and no one is fixing it, unacceptable", "label": "COMPLAINT"}
+{"query": "I am really disappointed with the delay", "label": "COMPLAINT"}
+{"query": "I raised a ticket 5 days ago and still no response", "label": "COMPLAINT"}
+{"query": "It's not working.", "label": "UNCLEAR"}
+{"query": "Help", "label": "UNCLEAR"}
+{"query": "??", "label": "UNCLEAR"}
+{"query": "hello", "label": "UNCLEAR"}
+{"query": "there is a problem", "label": "UNCLEAR"}
+{"query": "please check", "label": "UNCLEAR"}
+{"query": "something is wrong", "label": "UNCLEAR"}
+{"query": "urgent", "label": "UNCLEAR"}
+{"query": "hi I need some help with something", "label": "UNCLEAR"}
+{"query": "same issue as before", "label": "UNCLEAR"}
